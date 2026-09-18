@@ -61,12 +61,12 @@ Salin (*copy*) dan tempel (*paste*) kode markdown berikut ke dalam berkas barumu
 ```markdown
 ### Biodata Anggota
 
-* **Nama Lengkap:Laura Bunga Rahmadhani** 
-* **NIM:260605110043** 
-* **Asal Daerah / Kota:Pasuruan** 
-* **Tujuan Masuk Teknik Informatika:Ingin memperdalam programing** 
-* **Bidang IT yang Ingin Didalami:Algoritma** 
-* **Fun Fact:Ga bisa masak** 
+* **Nama Lengkap:** 
+* **NIM:**
+* **Asal Daerah / Kota:**
+* **Tujuan Masuk Teknik Informatika:** 
+* **Bidang IT yang Ingin Didalami:**
+* **Fun Fact:**
 ```
 
 ### 7️ Simpan Perubahan (Commit Changes)
